@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Basics.iml" filepath="$PROJECT_DIR$/.idea/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conditional_statements/.idea/conditional_statements.iml" filepath="$PROJECT_DIR$/../conditional_statements/.idea/conditional_statements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../conditional_statements_advanced/.idea/conditional_statements_advanced.iml" filepath="$PROJECT_DIR$/../conditional_statements_advanced/.idea/conditional_statements_advanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../for_loop/.idea/for_loop.iml" filepath="$PROJECT_DIR$/../for_loop/.idea/for_loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../nested_loops/.idea/nested_loops.iml" filepath="$PROJECT_DIR$/../nested_loops/.idea/nested_loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../simple_operations/.idea/simple_operations.iml" filepath="$PROJECT_DIR$/../simple_operations/.idea/simple_operations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../while_loop/.idea/while_loop.iml" filepath="$PROJECT_DIR$/../while_loop/.idea/while_loop.iml" />
+    </modules>
+  </component>
+</project>
